@@ -147,20 +147,6 @@ Confidence Score: 93.5%
 
 ---
 
-## What I Learned
-
-Through this project, I gained practical experience in:
-
-* Data preprocessing
-* Natural Language Processing
-* Feature engineering using TF-IDF
-* Text classification
-* Model evaluation
-* Working with real-world datasets
-* Building end-to-end machine learning pipelines
-
----
-
 ## Future Improvements
 
 Some possible improvements for this project include:
@@ -171,10 +157,3 @@ Some possible improvements for this project include:
 * Integrating real-time news verification APIs
 * Adding explainable AI techniques such as SHAP
 
----
-
-## Author
-
-Sanika Nayse
-
-Machine Learning and Data Science Enthusiast
